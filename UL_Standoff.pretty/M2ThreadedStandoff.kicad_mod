@@ -15,5 +15,5 @@
     (stroke (width 1.2) (type default)) (layer "F.Paste") (tstamp 66dbbcd8-4d39-4859-b121-777992f965bd))
   (fp_arc (start 1.361219 0.920815) (mid 0.700028 1.490696) (end -0.16 1.64)
     (stroke (width 1.2) (type default)) (layer "F.Paste") (tstamp f252eebe-5472-44c3-b1df-47257db8ebce))
-  (pad "1" thru_hole circle (at 0 0) (size 4.5 4.5) (drill 2.1) (layers "*.Cu" "*.Mask") (tstamp c748579c-8b1a-441a-87a0-e4f05bc4e801))
+  (pad "1" thru_hole circle (at 0 0) (size 4.5 4.5) (drill 3) (layers "*.Cu" "*.Mask") (tstamp c748579c-8b1a-441a-87a0-e4f05bc4e801))
 )

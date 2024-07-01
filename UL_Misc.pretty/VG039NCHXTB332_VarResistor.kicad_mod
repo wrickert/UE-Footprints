@@ -1,0 +1,102 @@
+(footprint "VG039NCHXTB332_VarResistor"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -3.1 -14.7 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "8b084d0f-eae0-4ab5-a588-98b186ea56f2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "VG039NCHXTB332_VarResistor"
+		(at -0.4 -13.3 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "a7daecd6-26df-4089-8603-505116d1d3e5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "be74308b-0a1c-47ce-a25b-6bb016bc2692")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fa0d9eed-6e6a-488b-bf7c-d5522bccc0bf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b7426b89-753a-4799-902e-16a12ad80772")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -1.82 -0.9)
+		(end 1.78 2.9)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "15fb4f79-a7f7-4a4e-bcfd-ffcc1f93a9bd")
+	)
+	(pad "1" smd rect
+		(at 1 2.5)
+		(size 1.2 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "bb253ff1-62f4-4038-8f94-8aed33336e31")
+	)
+	(pad "2" smd rect
+		(at 0 -0.75)
+		(size 1.6 1.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "16ef0aba-a4b1-4006-a69c-b23ba4b4970a")
+	)
+	(pad "3" smd rect
+		(at -1 2.5)
+		(size 1.2 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "f08cb8eb-901a-4f65-a48d-2fa1a7611969")
+	)
+)
